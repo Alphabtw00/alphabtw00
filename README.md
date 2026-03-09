@@ -1,4 +1,4 @@
-# hey, I'm Ansh 👋
+# Hey, I'm Ansh 👋
 
 CS undergrad who likes building things. Currently getting into cloud infra and backend dev.
 
@@ -8,4 +8,10 @@ CS undergrad who likes building things. Currently getting into cloud infra and b
 - AWS (EC2, S3, DynamoDB, IAM)
 
 
-[![](https://visitcount.itsvg.in/api?id=alphabtw00&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphabtw00&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=alphabtw00&theme=tokyonight&hide_border=true)
+
+---
+
+![](https://komarev.com/ghpvc/?username=alphabtw00&color=blue&style=flat)
