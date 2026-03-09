@@ -13,5 +13,10 @@ CS undergrad who likes building things. Currently getting into cloud infra and b
 ![](https://streak-stats.demolab.com?user=alphabtw00&theme=tokyonight&hide_border=true)
 
 ---
+**what I'm working with**
+
+![](https://skillicons.dev/icons?i=java,spring,nodejs,express,react,aws,git)
+
+---
 
 ![](https://komarev.com/ghpvc/?username=alphabtw00&color=blue&style=flat)
